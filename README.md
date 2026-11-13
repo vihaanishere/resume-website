@@ -17,14 +17,19 @@ Coming soon...
 - [x] Projects section (basic)
 - [x] Contact section
 
-### 🔨 Phase 2: Enhancements (Planned)
-- [ ] Add more projects (2048 game, etc.)
-- [ ] Add Experience/Education sections
-- [ ] Improve styling and animations
-- [ ] Add smooth scrolling navigation
-- [ ] Make fully responsive for mobile
-- [ ] Add project cards with better design
-- [ ] Add hover effects and transitions
+### 🔨 Phase 2: Enhancements (In Progress)
+- [x] Add more projects (2048 game, Portfolio website)
+- [x] Add Experience/Education sections
+- [x] Improve styling and animations
+- [x] Add smooth scrolling navigation
+- [x] Make fully responsive for mobile
+- [x] Add project cards with better design
+- [x] Add hover effects and transitions
+- [x] Add more skills (Vite, Bootstrap, Git, etc.)
+- [x] Sticky navigation with shadow
+- [x] Section heading underlines
+- [ ] Test on different devices
+- [ ] Minor tweaks and polish
 
 ### ⚡ Phase 3: Advanced Features (Future)
 - [ ] Dark/Light mode toggle
